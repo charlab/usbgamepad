@@ -1,6 +1,3 @@
-usbgamepad visualizer
-==========
-
 # USB Gamepad Visualizer
 
 This simple application will let you test a USB gamepad that is under
